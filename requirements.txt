@@ -3,6 +3,7 @@
 # Data Collection & APIs
 yfinance==0.2.40
 requests==2.31.0
+python-dotenv==1.0.0
 
 # Data Processing
 pandas>=2.2.3
