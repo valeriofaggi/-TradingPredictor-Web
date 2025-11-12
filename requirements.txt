@@ -1,0 +1,25 @@
+# Trading Predictor WEB - Streamlit Cloud Optimized
+
+# Data Collection & APIs
+yfinance==0.2.40
+requests==2.31.0
+
+# Data Processing
+pandas>=2.2.3
+numpy>=1.26.4
+
+# Machine Learning & Forecasting
+scikit-learn>=1.5.0
+prophet>=1.1.5
+
+# Technical Analysis
+ta==0.11.0
+pandas-ta>=0.3.14b
+
+# Visualization & Dashboard
+streamlit>=1.40.0
+plotly>=5.24.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2024.1
